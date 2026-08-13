@@ -1,0 +1,9 @@
+com\prsentry\controller\ReviewController.class
+com\prsentry\model\ReviewResponse.class
+com\prsentry\repository\FindingRepository.class
+com\prsentry\controller\HealthController.class
+com\prsentry\model\FindingDto.class
+com\prsentry\model\ReviewRequest.class
+com\prsentry\PrSentryApplication.class
+com\prsentry\service\CodeReviewService.class
+com\prsentry\model\Finding.class
